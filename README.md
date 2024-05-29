@@ -62,4 +62,10 @@ Most features show low correlation, indicating that the variables (V1 to V28) ar
 
  ![screenshot1](https://github.com/Rushikesh2209/Credit-Card-Fraud-Detection/blob/main/correlations.png)
 
+# Conclusion
+"The analysis demonstrates an effective method for detecting credit card fraud, and our findings indicate that the dataset is highly imbalanced, with fraudulent transactions amounting to a higher value than non-fraudulent transactions."
 
+# Future Work
+- Investigate advanced anomaly detection techniques.
+- Implement real-time fraud detection systems.
+- Explore the impact of additional features on model performance.
