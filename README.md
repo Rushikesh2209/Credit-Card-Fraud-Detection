@@ -1,12 +1,12 @@
-#Credit Card Fraud Detection
+# Credit Card Fraud Detection
 
 ![screenshot1](https://raw.githubusercontent.com/Rushikesh2209/Credit-Card-Fraud-Detection/main/Credit-card-fraud.webp)
   
 
-##Context :
+## Context :
               Credit card companies must be able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
               
-##Description:
+## Description:
  In this analysis, we focused on detecting fraudulent transactions in a credit card dataset. The dataset contains 284,807 transactions with 31 features, including time, transaction amount, and variables V1 to V28. The target variable is 'Class,' where 0 indicates a non-fraudulent transaction and 1 indicates a fraudulent transaction.
 
           The first step is to Import the required Libraries.
