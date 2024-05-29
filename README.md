@@ -63,19 +63,3 @@ Most features show low correlation, indicating that the variables (V1 to V28) ar
  ![screenshot1](https://github.com/Rushikesh2209/Credit-Card-Fraud-Detection/blob/main/correlations.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Name 	Rushikesh.S.Sakhare
-Course 	P.G. in Data Analytics
-Module	Data Analytics Essentials
